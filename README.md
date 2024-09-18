@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lucyulunts
 - 👀 I’m interested in AI!
-- 🌱 I’m currently learning SQL!
-- 💞️ I’m looking to collaborate on everything!
+- 🌱 I’m currently exploring data analytics and ML!
+- 💞️ I’m looking to collaborate on everything in between DS and ML!
 
 <!---
 lucyulunts/lucyulunts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
